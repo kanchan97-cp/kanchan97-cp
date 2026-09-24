@@ -1,4 +1,4 @@
-# Hi, I'm Kanchan [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchan-rani-1299b4355)
+# Hi, I'm Kanchan Rani [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchan-rani-1299b4355)
 
 ### B.Tech Computer Science & AI Student 
 
