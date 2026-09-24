@@ -1,6 +1,6 @@
-# Hi, I'm Kanchan
+# Hi, I'm Kanchan [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchan-rani-1299b4355)
 
-### B.Tech Computer Science & AI Student
+### B.Tech Computer Science & AI Student 
 
 I'm a Computer Science & AI student who enjoys working with data, exploring AI, and learning by building.
 
@@ -171,7 +171,3 @@ Alongside this, I'm also exploring web development and open source.
 Learn → Build → Experiment → Improve
 
 I'm continuously learning and exploring, and this GitHub is a collection of my learning journey, experiments, and work.
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchan-rani-1299b4355)
