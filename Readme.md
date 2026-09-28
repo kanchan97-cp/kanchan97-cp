@@ -60,26 +60,3 @@ Basic knowledge of:
 * Node.js
 * Git
 * GitHub
-
-## Currently Learning
-
-I'm continuously developing my skills across:
-
-Data Analytics → Data Science → AI
-
-Alongside this, I'm also exploring web development and open source.
-
-## What I Enjoy
-
-* Exploring and understanding data
-* Finding patterns and insights
-* Creating meaningful visualizations
-* Learning about AI and emerging technologies
-* Experimenting with new technologies
-* Learning through hands-on practice
-
-## Learning Philosophy
-
-Learn → Build → Experiment → Improve
-
-I'm continuously learning and exploring, and this GitHub is a collection of my learning journey, experiments, and work.
